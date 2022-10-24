@@ -33,3 +33,10 @@ header .logo {
 main {
     padding: 20px;
 }
+
+img {
+    height=150px;
+    width=150px;
+}
+
+<img src="Leia.jpg">
