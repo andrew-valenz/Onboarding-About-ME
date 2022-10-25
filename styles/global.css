@@ -34,9 +34,7 @@ main {
     padding: 20px;
 }
 
-img {
+.cat {
     height=150px;
     width=150px;
 }
-
-<img src="Leia.jpg">
